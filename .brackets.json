@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/malcolm/Documents/Coursera/AngularJS/json-server/public/scripts/services.js",
+        "/Users/malcolm/Documents/Coursera/AngularJS/app/scripts/controllers.js"
+    ]
+}
