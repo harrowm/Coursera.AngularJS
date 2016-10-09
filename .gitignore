@@ -1,3 +1,6 @@
 bower_components/**
 dist/**
 node_modules/**
+json-server/public/scripts/**
+json-server/public/styles/**
+json-server/public/fonts/**
